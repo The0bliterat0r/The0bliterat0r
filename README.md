@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Luke, a freshman studying electrical engineering. :zap:
 
 <!--
 **The0bliterat0r/The0bliterat0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
